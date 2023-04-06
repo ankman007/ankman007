@@ -1,10 +1,12 @@
 ![logo](https://github.com/ManjeshYdv/manjeshYdv/blob/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi there, I'm Ankit Poudel</h1>
-<h3 align="center">I am second year CS student at NCCS, Pagnajol</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankman007&label=Profile%20views&color=0e75b6&style=flat" alt="ankman007" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankman007" alt="ankman007" /></a> </p>
+
 - 🌱 I’m currently learning **Web Development & DSA**
+
+- 📫 How to reach me **info.ankitpoudel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
